@@ -1,4 +1,4 @@
-# Hi, I'm Ismail Chbiki - aka [ismailchbiki.com][website] 👋 
+# Hi, I'm Ismail - aka [ismailchbiki.com][website] 👋 
 
 ## I'm a Software Engineer and a Full Stack Developer
 
