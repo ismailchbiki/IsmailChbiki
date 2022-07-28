@@ -59,7 +59,6 @@
 [<img align="left" alt="Visual Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][website]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/1b6d695a-be0d-4aaf-920f-675585b5bb9c.png?auto=format&ixlib=react-9.0.3&w=2618" style="padding-right:10px;" />][website]
 [<img align="left" alt="Intellij Idea" width="26px" src="https://hdlicense.com/wp-content/uploads/2019/11/IntelliJ-IDEA-crack.png" style="padding-right:10px;" />][website]
-[<img align="left" alt="XCode" width="26px" src="https://cdn.jim-nielsen.com/macos/512/xcode-2020-11-11.png" style="padding-right:10px;" />][website]
 
 <!-- CMD -->
 [<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />](https://ismailchbiki.com/#gh-light-mode-only)
