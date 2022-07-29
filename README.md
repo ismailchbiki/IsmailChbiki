@@ -43,7 +43,6 @@
 [<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />][website]
 
 <!-- DevOps -->
-[<img align="left" alt="DevOps" width="26px" src="https://th.bing.com/th/id/R.f7e2601dd1d35aa324c3f63afde608d2?rik=fZTppyTKwd733Q&riu=http%3a%2f%2fzeptosystems.com%2fwp-content%2fuploads%2f2018%2f07%2fdevops-icon-1024x580.png&ehk=0v6wodU%2bpMf1hKHNkuD9%2bFmHse%2fPKTCokfxQytdlAE4%3d&risl=&pid=ImgRaw&r=0" style="padding-right:10px;" />][website]
 [<img align="left" alt="Postman" width="26px" src="https://blog.scottlogic.com/mmcalroy/assets/postmanLogo.png" style="padding-right:10px;" />][website]
 [<img align="left" alt="Docker" width="26px" src="https://th.bing.com/th/id/R.93ed1b1ac1acb9bf09fc46c3f42b51fc?rik=2hKNU1%2fBWys%2fsw&pid=ImgRaw&r=0" style="padding-right:10px;" />][website]
 
