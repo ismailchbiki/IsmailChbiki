@@ -2,10 +2,9 @@
 
 ## I'm a Software Engineer and a Full Stack Developer
 
-- 🔭 I’m currently working on some few websites which can be found in my repo
-- 🌱 I’m currently learning how to build native & hybrid Mobile Apps as it is part of my study program for the current semester 4
-- 🥅 2022 Goals: Getting my Associate Degree Diploma in Software Engineering and make sure to be an added value asset during my first internship
-- 👯 I’m looking to collaborate on open-source projects
+<!-- - 🔭 I’m currently working on some few websites which can be found in my repo -->
+- 🌱 I’m currently learning how to build native & hybrid/cross-platform Mobile Apps with SwiftUI, Kotlin, & React Native as it is part of my study program for the current semester 4
+- 🥅 2022 Goals: Getting my Associate Degree Diploma in Software Engineering and be well prepared for my first internship
 - 💬 Ask me about Software Engineering, Full Stack Development, DevOps
 - 📫 How to reach me: [ismailchbiki.com][website]
 - ⚡ Fun fact: I code also in my holidays and free time 🤣
