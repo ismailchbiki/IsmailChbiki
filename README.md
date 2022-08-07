@@ -2,7 +2,7 @@
 
 ## I'm a Software Engineer and a Full Stack Developer
 
-- 🌱 I’m currently learning how to build native & hybrid/cross-platform Mobile Apps with SwiftUI, Kotlin, React Native, & Flutter as it is my study program's main focus for the current semester 4
+- 🌱 I’m currently learning how to build native, PWA, & hybrid/cross-platform Mobile Apps with HTML5, CSS3, JS, SwiftUI, Kotlin, React Native, & Flutter as it is my study program's main focus for the current semester 4
 - 🔭 Main Interest: Full Stack & Software Development
 - 🥅 2022 Goals: Getting my Associate Degree Diploma in Software Engineering and be well prepared for my first internship
 - 💬 Ask me about Software Engineering, Full Stack Development, DevOps, Databases
