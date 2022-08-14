@@ -1,11 +1,10 @@
-# Hi, I'm Ismail - aka [ismailchbiki.com][website] 👋
+# Hi, I'm Ismail - aka [ismailchbiki.com][website] 👋 
 
 ## I'm a Software Engineer and a Full Stack Developer
 
 - 🌱 I’m currently learning how to build Native Mobile Apps with these techs: SwiftUI for iOS, Android Studio/Kotlin/Java for Android, and PWA (HTML/CSS/Javascript) for cross-platform as it is my study program's main focus for the current semester 4
-
 - 🔭 Main Interest: Full Stack & Software Development
-- 🥅 2022 Goals: Getting my Associate Degree Diploma in Software Engineering and be well prepared for my first internship
+- 🥅 2022 Goals: Getting my Associate Degree Diploma in Software Engineering and be well-prepared for my first internship
 - 💬 Ask me about Software Engineering, Full Stack Development, DevOps, Databases
 - 📫 How to reach me: [ismailchbiki.com][website]
 - ⚡ Fun fact: I like to code also in my holidays and free time 🤣
