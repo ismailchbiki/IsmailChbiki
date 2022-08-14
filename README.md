@@ -1,8 +1,9 @@
-# Hi, I'm Ismail - aka [ismailchbiki.com][website] 👋 
+# Hi, I'm Ismail - aka [ismailchbiki.com][website] 👋
 
 ## I'm a Software Engineer and a Full Stack Developer
 
-- 🌱 I’m currently learning how to build native & hybrid/cross-platform Mobile Apps with SwiftUI, Kotlin, React Native, & Flutter as it is my study program's main focus for the current semester 4
+- 🌱 I’m currently learning how to build Native Mobile Apps with these techs: SwiftUI for iOS, Android Studio/Kotlin/Java for Android, and PWA (HTML/CSS/Javascript) for cross-platform as it is my study program's main focus for the current semester 4
+
 - 🔭 Main Interest: Full Stack & Software Development
 - 🥅 2022 Goals: Getting my Associate Degree Diploma in Software Engineering and be well prepared for my first internship
 - 💬 Ask me about Software Engineering, Full Stack Development, DevOps, Databases
@@ -27,42 +28,50 @@
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/ismail_chbiki/#gh-dark-mode-only)
 
 ### Languages and Tools:
+
 <!-- Frontend -->
+
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][website]
 [<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />][website]
 [<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />][website]
 [<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />][website]
 
 <!-- Backend -->
+
 [<img align="left" alt="Java" width="26px" src="https://th.bing.com/th/id/R.74297f4675a85052184ee568b0a04ce6?rik=lhcvYIinWtCF1w&riu=http%3a%2f%2f4.bp.blogspot.com%2f-ztPJwcsMR6Q%2fUYMIAzCI5MI%2fAAAAAAAAAko%2fz0EDx8IyalY%2fs1600%2fJAVA-ICON.png&ehk=3Rgy8B92Nu1kEg08p0jSz04cGWuKwPAx7WYPH66uLJ8%3d&risl=&pid=ImgRaw&r=0" style="padding-right:10px;" />][website]
 [<img align="left" alt="C#" width="26px" src="https://th.bing.com/th/id/R.9c75ca2b0c277584e827c20c0a9ac4eb?rik=lYTtL6%2btrEmlAA&riu=http%3a%2f%2fwww.techbaz.org%2fCourse%2fimg%2fcsharp-logo.png&ehk=f75Aju9yyaageZkEKASfChc%2bjfdt95nig1iFn3g7mpw%3d&risl=&pid=ImgRaw&r=0" style="padding-right:10px;" />][website]
 
 <!-- Databases -->
+
 [<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][website]
 [<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />][website]
 
 <!-- DevOps -->
+
 [<img align="left" alt="Postman" width="26px" src="https://blog.scottlogic.com/mmcalroy/assets/postmanLogo.png" style="padding-right:10px;" />][website]
 [<img align="left" alt="Docker" width="26px" src="https://th.bing.com/th/id/R.93ed1b1ac1acb9bf09fc46c3f42b51fc?rik=2hKNU1%2fBWys%2fsw&pid=ImgRaw&r=0" style="padding-right:10px;" />][website]
 
 <!-- Source Control -->
+
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][website]
 [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />](https://ismailchbiki.com/#gh-dark-mode-only)
 [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />](https://ismailchbiki.com/#gh-light-mode-only)
 [<img align="left" alt="GitLab" width="26px" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/gitlab.png" style="padding-right:10px;" />][website]
 
 <!-- Project Management -->
+
 [<img align="left" alt="Jira" width="26px" src="https://th.bing.com/th/id/R.3c6a733912ee03f3da3e21426c42618a?rik=zeCSE8T8UPI8fA&pid=ImgRaw&r=0" style="padding-right:10px;" />][website]
 
 <!-- IDE's -->
+
 [<img align="left" alt="Visual Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][website]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/1b6d695a-be0d-4aaf-920f-675585b5bb9c.png?auto=format&ixlib=react-9.0.3&w=2618" style="padding-right:10px;" />][website]
 [<img align="left" alt="Intellij Idea" width="26px" src="https://hdlicense.com/wp-content/uploads/2019/11/IntelliJ-IDEA-crack.png" style="padding-right:10px;" />][website]
 
 <!-- CMD -->
+
 [<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />](https://ismailchbiki.com/#gh-light-mode-only)
 [<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />](https://ismailchbiki.com/#gh-dark-mode-only)
-
 
 <br />
 <br />
