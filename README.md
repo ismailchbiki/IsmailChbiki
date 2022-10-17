@@ -44,7 +44,7 @@
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />](https://git-scm.com/)
 [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />](https://ismailchbiki.com/#gh-dark-mode-only)
 [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />](https://ismailchbiki.com/#gh-light-mode-only)
-[<img align="left" alt="GitLab" width="26px" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/gitlab.png" style="padding-right:10px;" />](https://about.gitlab.com/)
+[<img align="left" width="26px" src="https://talks.freelancerepublik.com/wp-content/uploads/2021/02/GitLab_Logo.svg.png" style="padding-right:10px;" />](https://about.gitlab.com/)
 
 <!-- Project Management -->
 
