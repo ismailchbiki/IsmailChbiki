@@ -1,11 +1,11 @@
-# Hi, I'm Ismail - aka [ismailchbiki.com][website] 👋
+# Hi, I am Ismail - aka [ismailchbiki.com][website] 👋
 
-## I'm a Software Engineer and a Full Stack Developer
+## I'm a Software Developer
 
 - 🌱 I’m currently learning how to build Native Mobile Apps with these techs: SwiftUI for iOS, Android Studio/Kotlin/Java for Android, and PWA (HTML/CSS/Javascript) for cross-platform as it is my study program's main focus for the current semester 4
 - 🔭 Main Interest: Full Stack & Software Development
 - 🥅 2022 Goals: Getting my Associate Degree Diploma in Software Engineering and be well-prepared for my first internship
-- 💬 Ask me about Software Engineering, Full Stack Development, DevOps, Databases
+- 💬 Ask me about Software Development, Full Stack Development, DevOps, Databases
 - 📫 How to reach me: [ismailchbiki.com][website]
 - ⚡ Fun fact: I like to code also in my holidays and free time 🤣
 
@@ -28,12 +28,10 @@
 
 ### Languages and Tools:
 
-<!-- Frontend -->
-
-[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][website]
-[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />][website]
-[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />][website]
-[<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />][website]
+[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />](https://en.wikipedia.org/wiki/HTML5)
+[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />](https://en.wikipedia.org/wiki/CSS#:~:text=began%20in%202015.-,CSS%203,-%5Bedit%5D)
+[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />](https://en.wikipedia.org/wiki/JavaScript)
+[<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />](https://reactjs.org/)
 
 <!-- Backend -->
 
