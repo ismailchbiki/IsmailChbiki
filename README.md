@@ -28,19 +28,29 @@
 
 ### Languages and Tools:
 
+<!-- Frontend -->
+
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />](https://en.wikipedia.org/wiki/HTML5)
 [<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />](https://en.wikipedia.org/wiki/CSS#:~:text=began%20in%202015.-,CSS%203,-%5Bedit%5D)
 [<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />](https://en.wikipedia.org/wiki/JavaScript)
 [<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />](https://reactjs.org/)
 
+<!-- Backend -->
+
 [<img align="left" alt="Java" width="26px" src="https://th.bing.com/th/id/R.74297f4675a85052184ee568b0a04ce6?rik=lhcvYIinWtCF1w&riu=http%3a%2f%2f4.bp.blogspot.com%2f-ztPJwcsMR6Q%2fUYMIAzCI5MI%2fAAAAAAAAAko%2fz0EDx8IyalY%2fs1600%2fJAVA-ICON.png&ehk=3Rgy8B92Nu1kEg08p0jSz04cGWuKwPAx7WYPH66uLJ8%3d&risl=&pid=ImgRaw&r=0" style="padding-right:10px;" />](https://www.java.com/en/)
-[<img align="left" alt="C#" width="26px" src="https://th.bing.com/th/id/R.9c75ca2b0c277584e827c20c0a9ac4eb?rik=lYTtL6%2btrEmlAA&riu=http%3a%2f%2fwww.techbaz.org%2fCourse%2fimg%2fcsharp-logo.png&ehk=f75Aju9yyaageZkEKASfChc%2bjfdt95nig1iFn3g7mpw%3d&risl=&pid=ImgRaw&r=0" style="padding-right:10px;" />](https://learn.microsoft.com/en-us/dotnet/csharp/)
+[<img align="left" alt="C#" width="26px" src="https://static.javatpoint.com/csharp/images/c-sharp.png" style="padding-right:10px;" />](https://learn.microsoft.com/en-us/dotnet/csharp/)
+
+<!-- DBs -->
 
 [<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />](https://www.mysql.com/)
 [<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />](https://www.mongodb.com/cloud/atlas/lp/try4?utm_source=google&utm_campaign=search_gs_pl_evergreen_atlas_core_prosp-brand_gic-null_emea-nl_ps-all_desktop_eng_lead&utm_term=mongodb&utm_medium=cpc_paid_search&utm_ad=e&utm_ad_campaign_id=12212624536&adgroup=115749708903&gclid=CjwKCAjw-rOaBhA9EiwAUkLV4iIeSNcYJXzXRbDIdL3NzqI8TALsI92ZRbiDSeMeKd_RySnk10mZNRoC7_0QAvD_BwE)
 
+<!-- DevOps -->
+
 [<img align="left" alt="Postman" width="26px" src="https://blog.scottlogic.com/mmcalroy/assets/postmanLogo.png" style="padding-right:10px;" />](https://www.postman.com/)
 [<img align="left" alt="Docker" width="26px" src="https://th.bing.com/th/id/R.93ed1b1ac1acb9bf09fc46c3f42b51fc?rik=2hKNU1%2fBWys%2fsw&pid=ImgRaw&r=0" style="padding-right:10px;" />](https://www.docker.com/)
+
+<!-- Version control -->
 
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />](https://git-scm.com/)
 [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />](https://ismailchbiki.com/#gh-dark-mode-only)
@@ -59,8 +69,8 @@
 
 <!-- CMD -->
 
-[<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />](https://ismailchbiki.com/#gh-light-mode-only)
-[<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />](https://ismailchbiki.com/#gh-dark-mode-only)
+[<img align="left" alt="Terminal" width="26px" src="https://cdn-icons-png.flaticon.com/512/25/25627.png" />](https://ismailchbiki.com/#gh-light-mode-only)
+[<img align="left" alt="Terminal" width="26px" src="https://cdn3.brettterpstra.com/uploads/2015/02/terminal-longshadow_tw.png" />](https://ismailchbiki.com/#gh-dark-mode-only)
 
 <br />
 <br />
