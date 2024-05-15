@@ -2,12 +2,12 @@
 
 ## I am a Junior Software Engineer
 
-- 🔭 Main Interest: Software Engineering & Development
-- 🔭 Part-time Interest: Full Stack Web Development, DevOps, Databases, and Cybersecurity
-- 🥅 Eternal Goals: Becoming a better Software Engineer and writing a cleaner code.
-- 💬 Ask me about Software Engineering, Full Stack Development, DevOps, Databases
+- 🔭 Main Interest: Software Engineering, DevOps, & Cloud
+- 🔭 Part-time Interest: Full Stack Web Development, Cybersecurity, & AI
+- 🥅 Eternal Goals: Becoming a better Engineer and making simple solutions for complex problems.
+- 💬 Ask me about: Software Engineering, DevOps, Cloud, Full Stack Development, & anything IT-related.
 - 📫 How to reach me: [ismailchbiki.com][website]
-- ⚡ Fun fact: I like to code also in my holidays and free time 🤓
+- ⚡ Fun fact: I would still love to be on my laptop during my holidays and free time 🤓
 
 ### Connect with me:
 
