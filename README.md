@@ -1,13 +1,12 @@
 # Hi, I am [Ismail Chbiki](https://ismailchbiki.com/) 👋
 
-## I am a Junior Software Engineer | DevOps Practitioner
+## I am a DevOps .Net Engineer
 
-- 🔭 Main Interest: Software Engineering, DevOps, & Cloud
-- 🔭 Part-time Interest: Full Stack Web Development, Cybersecurity, & AI
-- 🥅 Eternal Goals: Becoming a better Engineer and making simple solutions for complex problems.
-- 💬 Ask me about: Software Engineering, DevOps, Cloud, Full Stack Development, & anything IT-related.
+- 🔭 What I do: Software Engineering, DevOps, & Azure Cloud.
+- 🔭 Stuff I geek out over: Machine/Deep Learning, Generative AI & web development.
+- 🥅 Eternal Goals: To become a well-rounded expert engineer/architect and create simple solutions for complex problems.
 - 📫 How to reach me: [ismailchbiki.com][website]
-- ⚡ Fun fact: I would still love to be on my laptop during my holidays and free time 🤓
+- ⚡ Fun fact: I genuinely enjoy being on my laptop—even during holidays 🤓
 - ⚡ Fun fact (2): I am a certified kitesurf instructor and water sports enthusiast 🌊 🏄‍♂️
 
 ### Connect with me:
